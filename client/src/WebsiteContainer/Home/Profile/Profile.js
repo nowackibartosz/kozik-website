@@ -40,7 +40,7 @@ export default function Profile() {
                 <Typical
                   loop={Infinity}
                   steps={[
-                    " IT support made ",
+                    " IT support",
                     2000,
                     "management",
                     2000,
