@@ -31,7 +31,7 @@ export default function Profile() {
             <span className="primary-text">
               {" "}
               Hello, I'm <span className="highlighted-text">Kinga</span>, but
-              you can call me Kozik.
+              you can call me your local IT consultant.
             </span>
           </div>
           <div className="profile-details-role">
