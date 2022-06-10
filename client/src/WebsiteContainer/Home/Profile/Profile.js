@@ -40,19 +40,22 @@ export default function Profile() {
                 <Typical
                   loop={Infinity}
                   steps={[
-                    "support made easy",
+                    " IT support made ",
                     2000,
-                    "professional support",
+                    "management",
                     2000,
-                    "PRO support",
+                    "networking",
                     2000,
-                    "Perry",
+                    "administration",
                     2000,
                   ]}
                 />
               </h1>
             </span>
-            <span className="profile-role-tagline"> I like big hedgehog</span>
+            <span className="profile-role-tagline">
+              {" "}
+              IT support / management aspect / infrastrucutre / data analyst{" "}
+            </span>
           </div>
           <div className="profile-options">
             <button
